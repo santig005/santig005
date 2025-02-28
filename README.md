@@ -8,7 +8,7 @@
 🎓 &nbsp;I'm currently studying Computer Science at the Eafit University.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at sjgomeza@eafit.edu.co! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at sjgomeza@eafit.edu.co! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
