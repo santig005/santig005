@@ -34,7 +34,7 @@
 <p align="center">
 <a href="https://github.com/santig005">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=santig005&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=santig005&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -49,4 +49,4 @@
 -----
 Credits: [Santiago Gomez Alzate](https://github.com/santig005)
 
-Last Edited on: /0282/2025
+Last Edited on: 28/02/2025
