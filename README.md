@@ -43,7 +43,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/santiago-gomez-alzate"><img src="https://img.shields.io/badge/-Santiago%20Gomez%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:sjgomeza@efit.edu.co"><img src="https://img.shields.io/badge/-sjgomeza@eafit.edu.co-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/santiagom"><img src="https://img.shields.io/badge/-@santiagom-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/santia_gom"><img src="https://img.shields.io/badge/-@santiagom-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 -----
